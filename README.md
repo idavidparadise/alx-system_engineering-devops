@@ -1,1 +1,1 @@
-shell permmission readme
+0x01 shell basics
